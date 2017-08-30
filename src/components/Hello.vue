@@ -30,9 +30,9 @@ export default {
     return {
       msg: 'Welcome to Your Vue.js App',
       users: [
-        {firstname: 'Sebastian', lastname: 'Bach'},
-        {firstname: 'Bill', lastname: 'Donovan'},
-        {firstname: 'John', lastname: 'Denver'}
+        {firstname: 'Gary', lastname: 'Lundgren'},
+        {firstname: 'Julia', lastname: 'Lundgren'},
+        {firstname: 'Otter', lastname: 'Denver'}
       ],
       input_val: '',
       counter: 0
